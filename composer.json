@@ -1,0 +1,18 @@
+{
+    "name": "machado/form_validator",
+    "description": "Biblioteca via composer para fazer validações de formularios",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Machado\\FormValidator\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Jose Romario Machado",
+            "email": "machadodev03@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
